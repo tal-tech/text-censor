@@ -1,0 +1,8 @@
+Flask_RESTful==0.3.7
+Flask==1.0.2
+gunicorn==19.9.0
+requests==2.18.4
+py_eureka_client==0.5.5
+pykafka==2.8.0
+redis==3.4.1
+pandas
